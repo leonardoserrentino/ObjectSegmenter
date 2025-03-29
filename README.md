@@ -23,12 +23,15 @@ It is designed to be plugged into real-time computer vision pipelines (e.g., ins
 
 ## 📁 File Structure
 
-/project-root │
+```txt
+/project-root
+  │
   ├── ObjectData.h # Struct to hold per-object data
   ├── ObjectSegmenter.h # Header for segmentation module
   ├── ObjectSegmenter.cpp # Implementation of segmentation logic
   ├── main.cpp # Example usage entry point 
   └── README.md # This file
+```
 
 
 ---
